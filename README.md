@@ -2,7 +2,7 @@
 
 Проект по генерации текста с использованием двух архитектур: LSTM (обучена с нуля) и предобученного GPT-2. Модели обучались на корпусе цитат о любви и отношениях.
 
-**Ссылка на проект:** [text_generation_lstm_gpt2.ipynb](https://colab.research.google.com/drive/19AFO5G8TBHiL52R6McCL-ippNw2ehAgm#scrollTo=emhd5lKGLdUY)
+**Ссылка на проект:** [text_generation.ipynb](https://colab.research.google.com/drive/19AFO5G8TBHiL52R6McCL-ippNw2ehAgm#scrollTo=emhd5lKGLdUY)
 
 ---
 
